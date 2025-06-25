@@ -4,7 +4,7 @@ A web-based application to visualize and forecast stock prices using real-time d
 
 ---
 
-## 🔧 Features
+##  Features
 
 -  Historical stock data visualization with interactive charts
 -  Forecasting using ARIMA, LSTM, Prophet, and XGBoost models
@@ -28,7 +28,6 @@ A web-based application to visualize and forecast stock prices using real-time d
 
 ---
 
-## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
