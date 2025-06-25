@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 3. Set Up Environment Variables
 
-Create a .env file or copy from .env.example, and add your API keys:
+Create a .env file or copy from .env.example, and add your API keys
