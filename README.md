@@ -1,6 +1,6 @@
 # Stock Prediction Website (Streamlit + ML)
 
-A web-based application to visualize and forecast stock prices using real-time data, technical indicators, and machine learning models like ARIMA, LSTM, Prophet, and XGBoost. Built using Python, Streamlit, Plotly, and several financial APIs.
+A web-based application to visualize and forecast stock prices using real-time data, technical indicators, and machine learning models like , LSTM, Prophet, and XGBoost. Built using Python, Streamlit, Plotly, and several financial APIs.
 
 ---
 
